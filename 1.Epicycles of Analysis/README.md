@@ -57,4 +57,4 @@ Data analysis is an iterative process:
       * *Revise analyses or approach to PResentation*
 # Example: Asthma Prevalence{Proportion} in the U.S Summary :
   You need to read it . Cuz it's easier for you to understand What's going on :D
-# Done Reading , Page 15 
+# Done Reading , Page 15
